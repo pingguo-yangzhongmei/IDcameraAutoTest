@@ -1,0 +1,16 @@
+from airtest.core.cv import Template
+
+首页相册icon = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/首页相册icon.png")
+相册页面title = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/相册页title.png")
+相册页_系统相册 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/相册页_系统相册.png")
+app水印提示弹窗 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/app水印提示弹窗.png")
+app水印提示弹窗同意按钮 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/app水印提示弹窗同意按钮.png")
+app相册弹窗同意按钮 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/app相册弹窗同意按钮.png")
+app相册权限弹窗 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/app相册权限弹窗.png")
+系统相册权限弹窗同意按钮 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/系统相册权限弹窗同意按钮.png")
+系统相册权限弹窗 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/系统相册权限弹窗.png")
+进入相册   = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/进入相册.png")
+点击香浦   =Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/点击香浦.png")
+点击Test相册 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/点击Test相册.png")
+点击测试图片 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/点击测试图片.png")
+进入编辑页 = Template(r"/Users/theblue/IDcameraAutoTest/GlobalVariable/img/进入编辑页.png")
